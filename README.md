@@ -14,4 +14,4 @@ This folder includes the codes for the analysis of trial-based functional connec
 
 ### Linear Decoders
 
-This folder includes MATLAB codes for linear movement decoders for Core, Early Phase, Late Phase and Other neurons. 
+This folder includes MATLAB codes for linear movement decoders for Core, Early Phase, Late Phase and Other neurons. The neuronal spikes data ('all_spikes.mat') can be downloaded from [here](https://drive.google.com/file/d/1fIkB9ruwcz60Wp-5v0ASvuvEyN5xxHrZ/view?usp=sharing).
