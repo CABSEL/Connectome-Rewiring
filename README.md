@@ -2,7 +2,7 @@
 
 This repository provides the codes for three key analysis in the manuscript:
 
-S Meamardoost, EJ Hwang, M Bhattacharya, C Ren, L Wang, C Mewes, Y Zhang, T Komiyama, R Gunawan. Rewiring dynamics of functional connectome in motor cortex during motor skill learning. _bioRxiv_, 499746, 2022. [doi:doi.org/10.1101/2022.07.12.499746](https://doi.org/10.1101/2022.07.12.499746)
+S Meamardoost, EJ Hwang, M Bhattacharya, C Ren, L Wang, C Mewes, Y Zhang, T Komiyama, R Gunawan. Rewiring dynamics of functional connectome in motor cortex during motor skill learning. _bioRxiv_, 499746, 2022. [doi:10.1101/2022.07.12.499746](https://doi.org/10.1101/2022.07.12.499746)
 
 ### PCA Rewiring
 
